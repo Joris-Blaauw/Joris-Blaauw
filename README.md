@@ -12,4 +12,5 @@ I like coding dumb projects and playing games.
 - PHP
 - Python
 - C++
-
+- SQL
+- Lua
